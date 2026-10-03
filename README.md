@@ -125,66 +125,6 @@ Python, mathematics, data analysis, and practical experimentation.
 </table>
 
 
-## 💻 Selected Projects
-
-### 🏙️ City Builder Game
-
-A Python-based city-building game developed to explore object-oriented
-programming, game logic, interactive systems, and software design.
-
-**Tech:** Python • Object-Oriented Programming
-
-<p>
-  <a href="https://github.com/rajwadhwani25-afk/city-builder-game">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-### 🔢 Digit Recognition
-
-A machine learning project focused on recognizing handwritten digits
-using image data and classification techniques.
-
-**Tech:** Python • Machine Learning • Data Processing • Classification
-
-<p>
-  <a href="https://github.com/iChit111/digit-recognition">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-### 🏋️ Exercise Form Checker
-
-A computer vision project designed to analyze exercise movements
-and provide feedback on exercise form.
-
-**Tech:** Python • Computer Vision • Machine Learning
-
-<p>
-  <a href="https://github.com/iChit111/exercise-form-checker">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-
-## 📚 What I'm Working On
-
-<table align="center">
-  <tr>
-    <td align="center">🧩<br><b>DSA</b></td>
-    <td align="center">💻<br><b>Software Development</b></td>
-    <td align="center">🌐<br><b>Web Development</b></td>
-  </tr>
-  <tr>
-    <td align="center">🤖<br><b>Machine Learning</b></td>
-    <td align="center">🐧<br><b>Linux</b></td>
-    <td align="center">🚗<br><b>Automotive Software</b></td>
-  </tr>
-</table>
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
